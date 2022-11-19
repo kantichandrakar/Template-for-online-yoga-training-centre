@@ -1,2 +1,3 @@
 # Template-for-online-yoga-training-centre
-first repository 
+first repository on git hub
+hello world
